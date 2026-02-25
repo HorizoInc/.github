@@ -3,7 +3,6 @@
 # Welcome to our organization
 <img width="600" height="232" alt="Black back Horizo Analytical Sciences wide small" src="https://github.com/user-attachments/assets/6a1e4f80-b157-4581-8086-25ab2fca2265" />
 </p>
-# Horizo Analytical Sciences
 
 ラマン分光をはじめとする分析データを対象に、研究者のデータ解釈および意思決定を支援する、解析レポート自動化ツールやアプリケーションを開発しています。
 
@@ -11,12 +10,12 @@
 
 ## 🚀 解決すること
 
-研究現場では、データ解析やレポート作成に多くの時間が費やされています。  
-私たちは、解析プロセスの自動化を通じて、研究者が本来の研究活動に集中できる環境づくりを目指しています。
+現場では、データ解析やレポート作成に多くの時間が費やされています。  
+解析プロセスの自動化を通じて、研究者が本来の研究活動に集中できる環境づくりを目指しています。
 
 ---
 
-## 🔬 技術・専門領域
+## 🔬 提供するソリューション
 
 - ラマン分光（Raman Spectroscopy）
 - 分析データの自動解析・レポート生成
