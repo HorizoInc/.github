@@ -27,7 +27,7 @@
 
 ##  プロジェクト
 
-１：[タイムゲートラマン SNR 最適化レポートツール](profile/SNR_Optimization_Report_Tool.md)
+１：[タイムゲートラマン SNR 最適化レポートツール](SNR_Optimization_Report_Tool.md)
 
 
 ##  お問い合わせ
