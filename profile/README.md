@@ -1,8 +1,7 @@
 <p align="center">
 
 ## 受託解析サービス　Photontrace
-<img width="900" height="300" alt="Photontrace" src="https://github.com/user-attachments/assets/b0a74ff5-ab95-4241-98c6-a8510f0af9f1" />
-
+<img width="900" height="300" alt="wide for blog backimage" src="https://github.com/user-attachments/assets/c7462e28-2025-4d30-8195-7a3219768232" />
 
 
 ラマン分光をはじめとする分析データを対象に、研究者のデータ解釈および意思決定を支援する、解析レポート自動化ツールやアプリケーションを開発しています。
