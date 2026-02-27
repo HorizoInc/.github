@@ -1,8 +1,8 @@
 <p align="center">
 
 ## Expanding Horizons in Scientific Data Analysis
-<img width="600" height="232" alt="Black back Horizo Analytical Sciences wide small" src="https://github.com/user-attachments/assets/6a1e4f80-b157-4581-8086-25ab2fca2265" />
-</p>
+<img width="900" height="300" alt="Photontrace" src="https://github.com/user-attachments/assets/b0a74ff5-ab95-4241-98c6-a8510f0af9f1" />
+
 
 
 ラマン分光をはじめとする分析データを対象に、研究者のデータ解釈および意思決定を支援する、解析レポート自動化ツールやアプリケーションを開発しています。
