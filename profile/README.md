@@ -1,8 +1,7 @@
 <p align="center">
 
 ## 受託解析サービス　Photontrace
-<img width="900" height="300" alt="wide for blog backimage" src="https://github.com/user-attachments/assets/c7462e28-2025-4d30-8195-7a3219768232" />
-
+<img width="2000" height="600" alt="グリーンレーザー" src="https://github.com/user-attachments/assets/c752e13e-e5f5-407a-8d4a-8824fc94c567" />
 
 タイムゲートラマン分光器"PicoRamanM3"を用いた実測とその分析データを対象に、研究者のデータ解釈および意思決定を支援する、解析レポート自動化ツールやアプリケーションを開発しています。
 
