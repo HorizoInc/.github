@@ -1,7 +1,6 @@
 <img width="1200" height="630" alt="OpenGraph" src="https://github.com/user-attachments/assets/e071c12f-0d71-461d-bedc-0a9c5929aace" /><p align="center">
 
 ## Photontrace:日本で唯一のタイムゲートラマン評価・実測プラットフォーム
-="600" alt="グリーンレーザー" src="https://github.com/user-attachments/assets/c752e13e-e5f5-407a-8d4a-8824fc94c567" />
 
 タイムゲートラマン分光器"PicoRamanM3"を用いた実測とその分析データを対象に、研究者のデータ解釈および意思決定を支援する、解析レポート自動化ツールやアプリケーションを開発しています。
 
