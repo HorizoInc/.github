@@ -1,4 +1,4 @@
-# タイムゲートラマン SNR 最適化レポートツール
+# タイムゲートラマン SNR 最適化レポートツール ver0.2(for internal/demonstration)
 <img width="648" height="568" alt="page1" src="https://github.com/user-attachments/assets/04fa3f58-7440-4e8c-9844-af6c0319dd2c" />
 
 
