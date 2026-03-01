@@ -1,10 +1,10 @@
-# タイムゲートラマン SNR 最適化レポートツール ver0.2(for internal/demonstration)
+## タイムゲートラマン SNR最適化レポートツール
+### ver0.2 (for internal/demonstration)
 <img width="648" height="568" alt="page1" src="https://github.com/user-attachments/assets/04fa3f58-7440-4e8c-9844-af6c0319dd2c" />
 
 
 ## 概要
-
-##本ツールは Time-gatedラマンの出力データに対し、SNR指標に基づく時間ゲート探索を行い解析レポートを生成する。
+本ツールは、Time-gatedラマンの出力CSVデータから、SNR指標に基づく時間ゲート探索を行い解析レポートを生成。
 
 ## 主な機能
 
@@ -34,7 +34,7 @@
 
 ## 現状の制限事項
 
-* 今後データ蓄積に応じてチューニング予定
+* 今後データ蓄積に応じてチューニング、機能向上予定
 
 ---
 
@@ -47,10 +47,10 @@
 
 ---
 
-## 運用
-
-1. まず ALS OFF（none）で確認
-2. 蛍光が見える場合 → medium
+## 選択
+解析するCSVファイルを選択
+1. ALS OFF（none）も選択可
+2. 蛍光がある場合 → medium
 3. 強い蛍光 → strong
 4. 結果を比較して判断
 
