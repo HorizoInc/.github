@@ -2,7 +2,7 @@
 
 **Version:** v1.0 / Streamlit local app  
 **Use:** Internal / demonstration use  
-**Prepared for:** Photontrace / HORIZO Inc.
+**Prepared for:** Photontrace.
 
 ---
 
