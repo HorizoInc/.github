@@ -6,8 +6,7 @@
 
 ---
 
-<img width="1000" height="562" alt="Pt Application web" src="https://github.com/user-attachments/assets/83e97f7a-c3de-452b-af78-901324dab56f" />
-
+<img width="1500" height="1074" alt="Pt Streamlit local app" src="https://github.com/user-attachments/assets/66c19031-5dd1-48f1-bc34-a4eeef754b31" />
 
 
 ## 概要
@@ -31,6 +30,9 @@ Time profileに基づく自動初期ゲート推定、手動ゲート調整、AL
 ---
 
 ### 2. Time profileに基づく初期ゲート推定
+
+<img width="1901" height="652" alt="Time profile" src="https://github.com/user-attachments/assets/4d4c9dbf-0c21-4f04-8b56-8563b4bbb893" />
+
 
 指定した波数範囲の信号強度からTime profileを作成し、立ち上がり領域を基準に初期ゲート範囲を自動推定します。
 
@@ -104,6 +106,9 @@ PDFレポート2ページ目には、SNV比較とArea正規化比較を表示し
 ---
 
 ### 7. Gate scan heatmap
+
+<img width="1891" height="859" alt="Gate scan heatmap" src="https://github.com/user-attachments/assets/58e7a51e-c665-4736-8ede-5f418a19b480" />
+
 
 固定幅の時間ゲートを時間方向にスライドさせ、各ゲート範囲で平均スペクトルを作成します。
 
