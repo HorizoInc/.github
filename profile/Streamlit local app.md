@@ -294,4 +294,3 @@ The tool is designed for Photontrace internal and demonstration use, supporting 
 本アプリは、Time-gated Raman CSVデータに対して、手動時間ゲート指定、自動初期ゲート推定、ALSベースライン補正、Savitzky-Golay smoothing、SNV/Area正規化、Gate scan heatmap表示、PDFレポート生成を行うStreamlitローカルアプリです。
 
 Photontraceの受託測定、PoC、デモ測定後の解析支援を目的としており、時間ゲートを自動決定するものではなく、解析者がTime profile、スペクトル比較、Heatmapを確認しながら妥当な条件を判断するための補助ツールです。
-Streamlit local app
