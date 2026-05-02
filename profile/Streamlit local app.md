@@ -6,6 +6,10 @@
 
 ---
 
+<img width="1000" height="562" alt="Pt Application web" src="https://github.com/user-attachments/assets/83e97f7a-c3de-452b-af78-901324dab56f" />
+
+
+
 ## 概要
 
 本アプリは、Time-gated Raman分光器から出力されたCSVデータを読み込み、任意の時間ゲート範囲を指定してスペクトルを抽出・比較し、PDFレポートを生成するためのローカル解析アプリです。
