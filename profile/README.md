@@ -24,9 +24,8 @@
 
 ##  プロジェクト
 
-１：[タイムゲートラマン SNR 最適化レポートツール](SNR_Optimization_Report_Tool.md)
+１：[Time-gated Raman 手動ゲート比較・レポート作成ツール](Streamlit local app.md)
 
-２：その他、いろいろ便利なものを。
 
 ##  お問い合わせ
 Official Website： www.photontrace.jp
