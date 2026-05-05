@@ -24,7 +24,7 @@
 
 ##  プロジェクト
 
-１：[Time-gated Raman 手動ゲート比較・レポート作成ツール]([profile/Streamlit local app.md](https://github.com/HorizoInc/.github/blob/c8623b17cccf9260ce5b02e9c2ceaf3e8cb9cc21/profile/Streamlit%20local%20app.md))
+１：[Time-gated Raman 時間ゲートによるスペクトル比較・レポート作成ツール
 
 ##  お問い合わせ
 Official Website： www.photontrace.jp
